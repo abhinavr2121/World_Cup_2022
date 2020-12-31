@@ -1,7 +1,7 @@
 # Simulating the FIFA 2022 World Cup
 ## By Abhinav Raghunathan
 
-The work in this repository was implemented for an [article]() written on [Medium](https://medium.com).
+The work in this repository was implemented for an [article](https://towardsdatascience.com/simulating-the-fifa-world-cup-2022-d363fad7da22) written on [Medium](https://medium.com).
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)</br></br>
 ![alt text](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons License")
